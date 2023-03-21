@@ -1,5 +1,3 @@
-# TicTacToe
-
 # Check-connection-script-
 
 ## Capçalera 2
